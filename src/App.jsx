@@ -6,7 +6,7 @@ import Search from "./pages/search/Search";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/TheMovieByReactJs/">
       <Routes>
         <Route path="/" element={<Browse />} />
         <Route path="/search" element={<Search />} />
