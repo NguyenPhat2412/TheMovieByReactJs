@@ -3,8 +3,8 @@
   "author": {
     "name": "NguyenPhatDev2412"
   },
-  "homepage": "https://nguyenphat2412.github.io/ReactTheMoive",
-  "private": true,
+  "homepage": "https://nguyenphat2412.github.io/TheMovieByReactJs",
+  "private": false,
   "version": "0.0.1",
   "type": "module",
   "scripts": {
