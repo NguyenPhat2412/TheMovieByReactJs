@@ -38,10 +38,10 @@ const Banner = () => {
 
         {/* Nút bấm */}
         <div className="mt-4 flex space-x-4">
-          <button className="px-6 py-2 text-lg bg-white text-black rounded-md font-semibold hover:bg-gray-300 transition">
+          <button className="px-6 py-2 text-lg bg-white text-black rounded-md font-semibold hover:bg-gray-300 transition cursor-pointer">
             Play
           </button>
-          <button className="px-6 py-2 text-lg bg-gray-700 text-white rounded-md font-semibold hover:bg-gray-600 transition">
+          <button className="px-6 py-2 text-lg bg-gray-700 text-white rounded-md font-semibold hover:bg-gray-600 transition cursor-pointer">
             My List
           </button>
         </div>
